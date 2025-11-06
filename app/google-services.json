@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626030208777",
+    "project_id": "quizonline-46a9f",
+    "storage_bucket": "quizonline-46a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626030208777:android:e5376a97a0932f21e895d8",
+        "android_client_info": {
+          "package_name": "com.example.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYBFuZ0CpUQhgcld-0C9TZl5_NZg0_dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
