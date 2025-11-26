@@ -93,6 +93,7 @@ class QuizActivity : AppCompatActivity(), View.OnClickListener {
                 Toast.makeText(applicationContext, "Please select answer to continue", Toast.LENGTH_SHORT).show()
                 return
             }
+            //answer is selected
 
             if(selectedAswer == questionModelList[currentQuestionIndex].correct){
                 score++
